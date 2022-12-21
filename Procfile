@@ -1,1 +1,0 @@
-web: gunicorn 'beauty_city.wsgi'
